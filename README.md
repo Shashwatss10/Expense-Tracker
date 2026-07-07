@@ -21,7 +21,7 @@
 
 ## 🌐 Live Demo
 
-🔗 ___Upcoming Soon___->[Try Expense-Tracker]()
+🔗 ___Upcoming Soon___
 
 ------------------------------------------------------------------------
 
