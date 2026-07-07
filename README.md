@@ -1,23 +1,21 @@
 # 💸 Expense Tracker
 
-```{=html}
 <p align="center">
-```
+  
 ![Version](https://img.shields.io/badge/version-v2.2-2E8B57?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi)
+![MIT-License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-06B6D4?style=for-the-badge&logo=tailwindcss)
-![MIT-License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
-```{=html}
 </p>
-```
+
 > A modern full-stack personal finance management application built with
 > **React**, **FastAPI**, **SQLAlchemy**, and **PostgreSQL/SQLite**.
 > Track income and expenses, manage category budgets, visualize
 > financial insights, and export reports in PDF and CSV formats through
-> a clean dashboard.
+> A clean dashboard.
 
 ------------------------------------------------------------------------
 
@@ -29,19 +27,17 @@
 
 ## 📸 Screenshots
 
-> Replace these placeholders with your screenshots.
-
 ### Dashboard
 
-`/screenshots/Dashboard.png`
+![Dashboard](screenshots/Dashboard.png)
 
 ### Expenses
 
-`/screenshots/Expenses.png`
+![Expenses](screenshots/Expenses.png)
 
 ### Categories
 
-`/screenshots/Categories.png`
+![Categories](screenshots/Categories.png)
 
 ------------------------------------------------------------------------
 
